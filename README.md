@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Guido</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on [Jukids](https://github.com/CampusDual/cd2024bfs3g1)
+- 🔭 I’m currently working on Jukids 
 
 - 🌱 I’m currently learning **DAM, Bootcamp Fullstack**
 
