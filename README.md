@@ -36,6 +36,9 @@ Aplicación de gestión de biblioteca construida con TDD. +20 tests en verde.
 `Python` `Testing` `Data Analysis`
 
 ---
+## 📊 GitHub Stats
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rguido92&show_icons=true&locale=en)
 
 ## 📬 Contacto
 
