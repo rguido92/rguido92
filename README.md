@@ -1,8 +1,9 @@
 # Rodrigo Guido Arias — Java Backend Developer
 
-Desarrollador Backend especializado en Java con formación en CFGS DAM. 
-Construyo microservicios REST con Spring Boot, PostgreSQL e Hibernate, 
+Desarrollador Backend especializado en Java con formación en CFGS DAM.
+Construyo microservicios REST con Spring Boot, PostgreSQL e Hibernate,
 aplicando arquitectura Controller → Service → Repository y metodología Scrum.
+Cómodo trabajando en equipo, con feedback continuo y entregas iterativas.
 
 ---
 
@@ -12,6 +13,7 @@ aplicando arquitectura Controller → Service → Repository y metodología Scru
 **Backend:** Spring Boot · REST APIs · Hibernate · JPA  
 **Bases de datos:** PostgreSQL · Modelado relacional  
 **Arquitectura:** MVC · DAO · Service Layer · Microservicios  
+**Frontend (complementario):** Angular · HTML · CSS  
 **Herramientas:** Git · Flyway  
 **Metodologías:** Scrum · TDD · Desarrollo iterativo  
 
@@ -23,22 +25,25 @@ aplicando arquitectura Controller → Service → Repository y metodología Scru
 Sistema de reservas y comentarios formado por 2 microservicios REST desacoplados.  
 `Java` `Spring Boot` `Hibernate` `PostgreSQL` `Flyway` `REST APIs`
 
-### [Sistema Cliente-Servidor con Sockets](https://github.com/rguido92/Ejercicios_Sockets)
+### [Jukids — Aplicación Web Fullstack](https://github.com/CampusDual/2024-BFS-3-G1_Jukids)
+Aplicación desarrollada en equipo bajo metodología Scrum durante el Bootcamp Full Stack (IMATIA).
+Desplegada en producción con roles diferenciados (administrador y cliente).  
+🎥 [Ver Demo Day](https://www.youtube.com/watch?v=Cb9TtyORITw) · 🌐 [Aplicación en producción](https://cd2024bfs3g1.dev.campusdual.com)  
+`Java` `Spring Boot` `Angular` `PostgreSQL` `REST APIs` `Scrum`
+
+### [Sistema Cliente-Servidor con Sockets](https://github.com/rguido92/obbackend)
 Comunicación TCP/UDP con gestión de múltiples conexiones concurrentes.  
 `Java` `Networking` `TCP` `UDP` `Concurrency`
 
-### [Sistema de Gestión de Empresa](https://github.com/rguido92/Proyecto_Hibernate)
+### [Sistema de Gestión de Empresa](https://github.com/rguido92/appmazing)
 Modelado de relaciones N:M con persistencia ORM completa y lógica de negocio en capa Service.  
 `Java` `Hibernate` `JPA` `PostgreSQL`
 
-### [Python Learning Project](https://github.com/rguido92/python-learning-journey)
-Aplicación de gestión de biblioteca construida con TDD. +20 tests en verde.  
+### [Python Learning Project](https://github.com/rguido92)
+Aplicación de gestión de biblioteca construida con TDD desde el primer commit. +20 tests en verde.  
 `Python` `Testing` `Data Analysis`
 
 ---
-## 📊 GitHub Stats
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rguido92&show_icons=true&locale=en)
 
 ## 📬 Contacto
 
