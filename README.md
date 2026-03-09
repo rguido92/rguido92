@@ -31,11 +31,11 @@ Desplegada en producción con roles diferenciados (administrador y cliente).
 🎥 [Ver Demo Day](https://www.youtube.com/watch?v=Cb9TtyORITw) · 🌐 [Aplicación en producción](https://cd2024bfs3g1.dev.campusdual.com)  
 `Java` `Spring Boot` `Angular` `PostgreSQL` `REST APIs` `Scrum`
 
-### [Sistema Cliente-Servidor con Sockets](https://github.com/rguido92/obbackend)
+### [Sistema Cliente-Servidor con Sockets](https://github.com/rguido92/Ejercicios_Sockets)
 Comunicación TCP/UDP con gestión de múltiples conexiones concurrentes.  
 `Java` `Networking` `TCP` `UDP` `Concurrency`
 
-### [Sistema de Gestión de Empresa](https://github.com/rguido92/appmazing)
+### [Sistema de Gestión de Empresa](https://github.com/rguido92/Proyecto_Hibernate)
 Modelado de relaciones N:M con persistencia ORM completa y lógica de negocio en capa Service.  
 `Java` `Hibernate` `JPA` `PostgreSQL`
 
