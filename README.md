@@ -46,6 +46,6 @@ Aplicación de gestión de biblioteca construida con TDD desde el primer commit.
 ---
 
 ## 📬 Contacto
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--rguido92vercelapp.vercel.app-00d4aa?style=flat&logo=vercel)](https://portfolio-rguido92vercelapp.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigo--guido92-blue?logo=linkedin)](https://linkedin.com/in/rodrigo-guido92)
 [![Email](https://img.shields.io/badge/Email-rodrigoguidoarias@gmail.com-red?logo=gmail)](mailto:rodrigoguidoarias@gmail.com)
